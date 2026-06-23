@@ -10,8 +10,15 @@
 		
 		
 		
-			<lastBuildDate></lastBuildDate>
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About me</title>
+				<link>/research/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/research/</guid>
+				<description>&lt;h1 id=&#34;publications-and-theses&#34;&gt;Publications and Theses&lt;/h1&gt;&#xA;&lt;h2 id=&#34;to-appear&#34;&gt;To appear&lt;/h2&gt;&#xA;&lt;p&gt;Leonova, P. &amp;amp; &lt;strong&gt;Baklanov. A&lt;/strong&gt;. (2026). Glagoly semantičeskogo polja ‘menjatʹ’ v norvežskom jazyke (bukmol) [Verbs of the semantic field &amp;lsquo;change&amp;rsquo; in Norwegian Bokmål]. &lt;em&gt;Acta Linguistica Petropolitana. Transactions of the Institute for Linguistic Studies.&lt;/em&gt; Saint Petersburg, Russia: Nauka.(Accepted, Under review; in Russian).&lt;/p&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;p&gt;Baklanov, A. (2025). &lt;a href=&#34;/statics/documents/masters.pdf&#34;&gt;Lexical Scope of Nominal Tense Markers: A Pilot Typological Study (Master&amp;rsquo;s thesis, HSE University)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;&#xA;&lt;p&gt;Baklanov, A. (2023). &lt;a href=&#34;/statics/documents/bachelors.pdf&#34;&gt;Nominal Tense And Semantically Similar Markers In Siberia As An Areal Feature (Bachelor&amp;rsquo;s thesis, HSE University)&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
